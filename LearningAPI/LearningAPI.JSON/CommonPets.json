@@ -1,0 +1,81 @@
+{
+    "Pets": [
+        {
+            "animal": "axolotl",
+            "habitatType": "aquarium",
+            "needsSpecialHabitat": true,
+            "size": "tiny",
+            "type": "amphibian"
+        },
+        {
+            "animal": "bearded dragon",
+            "habitatType": "terrarium",
+            "needsSpecialHabitat": true,
+            "size": "small",
+            "type": "reptile"
+        },
+        {
+            "animal": "budgie",
+            "habitatType": "cage",
+            "needsSpecialHabitat": true,
+            "size": "tiny",
+            "type": "bird"
+        },
+        {
+            "animal": "canary",
+            "habitatType": "cage",
+            "needsSpecialHabitat": true,
+            "size": "tiny",
+            "type": "bird"
+        },
+        {
+            "animal": "cat",
+            "habitatType": null,
+            "needsSpecialHabitat": false,
+            "size": "small",
+            "type": "mammal"
+        },
+        {
+            "animal": "dog",
+            "habitatType": null,
+            "needsSpecialHabitat": false,
+            "size": "various",
+            "type": "mammal"
+        },
+        {
+            "animal": "frog",
+            "habitatType": "terrarium",
+            "needsSpecialHabitat": true,
+            "size": "tiny",
+            "type": "amphibian"
+        },
+        {
+            "animal": "geco",
+            "habitatType": "terrarium",
+            "needsSpecialHabitat": true,
+            "size": "tiny",
+            "type": "reptile"
+        },
+        {
+            "animal": "guppy",
+            "habitatType": "aquarium",
+            "needsSpecialHabitat": true,
+            "size": "tiny",
+            "type": "fish"
+        },
+        {
+            "animal": "hamster",
+            "habitatType": "cage",
+            "needsSpecialHabitat": true,
+            "size": "tiny",
+            "type": "mammal"
+        },
+        {
+            "animal": "neon tetra",
+            "habitatType": "aquarium",
+            "needsSpecialHabitat": true,
+            "size": "tiny",
+            "type": "fish"
+        }
+    ]
+}
