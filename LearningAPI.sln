@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningAPI", "LearningAPI\LearningAPI.csproj", "{29ABB2E5-8E88-4B7E-9DB6-C9651E92C5CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningAPI", "LearningAPI\LearningAPI.csproj", "{29ABB2E5-8E88-4B7E-9DB6-C9651E92C5CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningAPI.Entities", "LearningAPI.Entities\LearningAPI.Entities.csproj", "{590384AB-712D-466C-9A8D-6BE89F82899B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningAPI.Application", "LearningAPI.Application\LearningAPI.Application.csproj", "{63D5B854-2990-44B9-B6F7-ED1A0BA8C215}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{29ABB2E5-8E88-4B7E-9DB6-C9651E92C5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29ABB2E5-8E88-4B7E-9DB6-C9651E92C5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29ABB2E5-8E88-4B7E-9DB6-C9651E92C5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590384AB-712D-466C-9A8D-6BE89F82899B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590384AB-712D-466C-9A8D-6BE89F82899B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590384AB-712D-466C-9A8D-6BE89F82899B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590384AB-712D-466C-9A8D-6BE89F82899B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D5B854-2990-44B9-B6F7-ED1A0BA8C215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D5B854-2990-44B9-B6F7-ED1A0BA8C215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D5B854-2990-44B9-B6F7-ED1A0BA8C215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D5B854-2990-44B9-B6F7-ED1A0BA8C215}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
