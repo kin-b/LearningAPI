@@ -5,8 +5,5 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
-	<ItemGroup>
-		<ProjectReference Include="..\LearningAPI.Application\LearningAPI.Application.csproj"></ProjectReference>
-		<ProjectReference Include="..\LearningAPI.Entities\LearningAPI.Entities.csproj"></ProjectReference>
-	</ItemGroup>
+
 </Project>

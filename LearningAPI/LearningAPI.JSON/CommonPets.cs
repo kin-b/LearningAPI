@@ -16,7 +16,7 @@ namespace LearningAPI.LearningAPI.JSON
         public string? habitatType { get; set; }
     }
 
-    public class CommonPetsDeserializationOld
+    public class CommonPetsDeserialization
     {
         public static CommonPets DeserializeCommonPets()
         {
