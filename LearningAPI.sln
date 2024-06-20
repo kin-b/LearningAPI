@@ -4,10 +4,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningAPI", "LearningAPI\LearningAPI.csproj", "{29ABB2E5-8E88-4B7E-9DB6-C9651E92C5CB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{590384AB-712D-466C-9A8D-6BE89F82899B} = {590384AB-712D-466C-9A8D-6BE89F82899B}
+		{63D5B854-2990-44B9-B6F7-ED1A0BA8C215} = {63D5B854-2990-44B9-B6F7-ED1A0BA8C215}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningAPI.Entities", "LearningAPI.Entities\LearningAPI.Entities.csproj", "{590384AB-712D-466C-9A8D-6BE89F82899B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningAPI.Entities", "LearningAPI.Entities\LearningAPI.Entities.csproj", "{590384AB-712D-466C-9A8D-6BE89F82899B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningAPI.Application", "LearningAPI.Application\LearningAPI.Application.csproj", "{63D5B854-2990-44B9-B6F7-ED1A0BA8C215}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningAPI.Application", "LearningAPI.Application\LearningAPI.Application.csproj", "{63D5B854-2990-44B9-B6F7-ED1A0BA8C215}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
