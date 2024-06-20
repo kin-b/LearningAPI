@@ -7,7 +7,7 @@
   </PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\LearningAPI\LearningAPI.Entities\LearningAPI.Entities.csproj"></ProjectReference>
+		<ProjectReference Include="..\LearningAPI.Entities\LearningAPI.Entities.csproj"></ProjectReference>
 	</ItemGroup>
 
 </Project>
